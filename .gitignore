@@ -1,0 +1,6 @@
+# これはコメント
+# GitHubの管理で無視してほしいフォルダ・ファイル
+
+Movie/
+
+!/Movie/Fireworks.mp4
